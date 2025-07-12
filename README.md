@@ -1,5 +1,5 @@
 # はじめに
-［制作物利用規約］https://github.com/heliward/terms/blob/main/terms-of-tunagu.md
+［制作物利用規約］https://github.com/heliward/docs/blob/main/terms-of-tunagu.md
 
 ［Webサイト］https://yu5o.com
 
